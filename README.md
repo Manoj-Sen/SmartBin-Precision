@@ -1,1 +1,1 @@
-# manusen_project
+# Waste-Segregation-using-Deep-learning
